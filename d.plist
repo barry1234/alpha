@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://125.211.218.55/alfa/test/lnzft.ipa</string>
+                   <string>http://125.211.218.55/alfa/test/alpha.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.lzx.jixiinfo</string>
+               <string>com.lzx.alpha</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>联农致富通</string>
+               <string>阿尔法家居</string>
                <key>title</key>
-               <string>联农致富通</string>
+               <string>阿尔法家居</string>
            </dict>
        </dict>
    </array>
