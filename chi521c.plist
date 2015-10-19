@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.chi521.com/cmobile/images/icon.png</string>
+					<string>https://www.chi521.com/cmobile/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.chi521.com/cmobile/images/main.png</string>
+					<string>https://www.chi521.com/cmobile/main.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
